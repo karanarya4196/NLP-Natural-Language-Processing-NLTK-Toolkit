@@ -2,6 +2,7 @@
 1. Lemmatization
 2. Stemming
 3. Sentence Tokenizer
-3. Stop Words
 4. Name Entity Recognition (NER)
 5. Part of Speech (POS) Tagging
+6. Accessing NLTK Corpora
+7. Stop Words
