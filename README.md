@@ -1,4 +1,4 @@
-# The Natural Language Processing (NLP) tutorials will provide an overview of Natural Language ToolKit (NLTK) toolkit features such as:
+# The Natural Language Processing (NLP) tutorials will provide an overview of Natural Language ToolKit (NLTK) features such as:
 1. Lemmatization
 2. Stemming
 3. Sentence Tokenizer
