@@ -2,6 +2,6 @@
 1. Lemmatization
 2. Stemming
 3. Sentence Tokenizer
-3. Remove Stop Words
+3. Stop Words
 4. Name Entity Recognition (NER)
 5. Part of Speech (POS) Tagging
