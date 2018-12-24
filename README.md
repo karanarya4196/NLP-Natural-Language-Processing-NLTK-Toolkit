@@ -1,4 +1,4 @@
-# The Natural Language Processing (NLP) tutorials will provide an overview to work with various features such as:
+# The Natural Language Processing (NLP) tutorials will provide an overview of NLTK toolkit features such as:
 1. Lemmatization
 2. Stemming
 3. Word2vec
