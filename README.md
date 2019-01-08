@@ -12,3 +12,4 @@
 11. Downloading NLTK Corpus Data
 12. Frequency Distribution
 13. WordNet
+14. White Space Tokenizer
